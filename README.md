@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐️ Hi! I’m learning programming and trying to find my path in this field.<br>📚 I’m constantly curious about different areas and eager to explore interesting things.<br>🐝 I already have a bunch of projects in my head that I want to bring to life soon.<br>💎 I also try, whenever possible, to find friends to enjoy coding together.<br>📕 I speak Russian, Ukrainian, and Polish. I learning English.
+⭐️ Hi! I’m learning programming and trying to find my path in this field.<br>📚 I’m constantly curious about different areas and eager to explore interesting things.<br>🐝 I already have a bunch of projects in my head that I want to bring to life soon.<br>💎 I also try, whenever possible, to find friends to enjoy coding together.<br>📕 I speak Russian, Ukrainian, and Polish. I learning English and Germany.
 
 
 ## 🌐 Socials:
