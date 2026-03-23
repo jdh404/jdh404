@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🌱 Now learning: **Python, C#, Linux**
-- 💡 Interest: Cybersecurity / AI / Software
+- 💡 Interest: **Cybersecurity / AI / Software**
 - ⚡ I strive to become a specialist in the field of cybersecurity
 
 ---
