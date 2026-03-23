@@ -4,10 +4,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Сейчас учу: **Go, React, Node.js**
-- 💡 Интерес: Web Development / Backend
-- 🎮 Люблю игры и технологии
-- ⚡ Хочу стать сильным разработчиком
+- 🌱 Now learning: **Python, C#, Linux**
+- 💡 Interest: Cybersecurity / AI / Software
+- ⚡ I strive to become a specialist in the field of cybersecurity
 
 ---
 
@@ -36,6 +35,12 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=jdh404&show_icons=true&theme=tokyonight)
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jdh404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🔥 Projects
 - 🚧 Coming soon...
