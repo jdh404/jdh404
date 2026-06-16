@@ -20,7 +20,7 @@ const simon = {
 ```
 
 ---
-<img src="https://raw.githubusercontent.com/jdh404/jdh404/main/baner.png?raw=true" width="100%"/>
+![banner](https://raw.githubusercontent.com/jdh404/jdh404/main/baner.png)
 
 ## 🛠️ Tech Stack
 
