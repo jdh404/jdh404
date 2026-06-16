@@ -67,16 +67,13 @@ const simon = {
 
 <div align="center">
 
-## 🚀 Projects
+## 🚀 Top Projects
 
 <div align="center">
 
-[![project-1](https://github-readme-stats.vercel.app/api/pin/?username=jdh404&repo=НАЗВАНИЕ_РЕПО_1&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/jdh404/Mini-CRM)
-
-[![project-2](https://github-readme-stats.vercel.app/api/pin/?username=jdh404&repo=НАЗВАНИЕ_РЕПО_2&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/jdh404/educational-winlocker-simulation)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdh404&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" />
 
 </div>
-
 ---
 
 ## 📫 Connect
