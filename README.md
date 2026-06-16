@@ -87,8 +87,6 @@ const simon = {
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:aaaaaa,100:ffffff&height=100&section=footer&fontColor=000000" />
