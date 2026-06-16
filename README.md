@@ -12,7 +12,7 @@
 ```js
 const simon = {
   university:        "Politechnika Lubelska",
-  major:             "Сybersecurity, AI, Ыoftware",
+  major:             "Сybersecurity, AI, Software",
   focus:             ["Network sec.", "Databases", "System Def."],
   currentlyLearning: ["Malware Analysis", "Security Automation", "Ethical Hacking"],
   funFact:           "I debug at 2AM and call it 'productivity'"
