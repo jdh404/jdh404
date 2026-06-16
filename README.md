@@ -88,6 +88,6 @@ const simon = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jdh404&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:aaaaaa,100:ffffff&height=100&section=footer&fontColor=000000" />
 
 </div>
