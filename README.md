@@ -12,7 +12,7 @@
 ```js
 const simon = {
   university:        "Politechnika Lubelska",
-  major:             "Сybersecurity, AI, Software",
+  major:             "Сybersecurity, AI, Ыoftware",
   focus:             ["Network sec.", "Databases", "System Def."],
   currentlyLearning: ["Malware Analysis", "Security Automation", "Ethical Hacking"],
   funFact:           "I debug at 2AM and call it 'productivity'"
@@ -21,7 +21,7 @@ const simon = {
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SimonFlins/SimonFlins/main/baner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/jdh404/jdh404/main/baner.png" width="100%"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -50,14 +50,14 @@ const simon = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimonFlins&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFlins&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdh404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdh404&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SimonFlins&theme=dark&hide_border=true&border_radius=10&background=0D0D0D&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=666666)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jdh404&theme=dark&hide_border=true&border_radius=10&background=0D0D0D&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=666666)](https://git.io/streak-stats)
 
 </div>
 
@@ -67,8 +67,8 @@ const simon = {
 
 <div align="center">
 
-[![mini-crm](https://github-readme-stats.vercel.app/api/pin/?username=SimonFlins&repo=mini-crm-nodejs&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/SimonFlins/mini-crm-nodejs)
-[![sql-index-analysis](https://github-readme-stats.vercel.app/api/pin/?username=SimonFlins&repo=sql-index-analysis&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/SimonFlins/sql-index-analysis)
+[![mini-crm](https://github-readme-stats.vercel.app/api/pin/?username=jdh404&repo=mini-crm-nodejs&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/jdh404/mini-crm-nodejs)
+[![sql-index-analysis](https://github-readme-stats.vercel.app/api/pin/?username=jdh404&repo=sql-index-analysis&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/jdh404/sql-index-analysis)
 
 </div>
 
@@ -88,7 +88,7 @@ const simon = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SimonFlins&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=jdh404&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=100&section=footer" />
 
