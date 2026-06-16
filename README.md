@@ -91,8 +91,6 @@ const simon = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jdh404&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:aaaaaa,100:ffffff&height=100&section=footer&fontColor=000000" />
 
 </div>
