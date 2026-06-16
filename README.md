@@ -21,7 +21,7 @@ const simon = {
 
 ---
 
-<img src="https://raw.githubusercontent.com/jdh404/jdh404/main/baner.png" alt="banner" width="100%">
+![banner](baner.png)
  
 
 ## 🛠️ Tech Stack
