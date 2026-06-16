@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=180&section=header&text=Simon%20Flins&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%7C%20AI%20Assistant%20%7C%20Software&descAlignY=55&descSize=16&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:555555,100:ffffff&height=180&section=header&text=Simon%20Flins&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%7C%20AI%20Assistant%20%7C%20Software&descAlignY=55&descSize=16&descColor=dddddd" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&height=50&lines=Hello+World!;Coffee+%2B+Code+%3D+%E2%9C%93;Just+Debugging+Here...;404%3A+Sleep+Not+Found;It+works+on+my+machine+%F0%9F%A4%B7;undefined+is+not+a+function)](https://git.io/typing-svg)
 
