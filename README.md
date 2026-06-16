@@ -21,7 +21,7 @@ const simon = {
 
 ---
 
-![banner](baner.png)
+![banner](baner(1).png)
  
 
 ## 🛠️ Tech Stack
