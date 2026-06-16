@@ -21,8 +21,11 @@ const simon = {
 
 ---
 
+### 💭 Philosophy
+
 ![banner](baner(1).png)
  
+---
 
 ## 🛠️ Tech Stack
 
@@ -62,10 +65,6 @@ const simon = {
 </div>
 
 ---
-
-## 🚀 Projects
-
-<div align="center">
 
 ## 🚀 Projects
 
